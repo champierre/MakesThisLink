@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{b917657c-42ab-4e31-a047-3f40db465515}</em:id>
+    <em:name>MakesThisLink</em:name>
+    <em:version>0.0.1</em:version>
+    <em:description>TwitterのWebサイトのユーザー名部分にMakesThis(http://makesthis.com)へのリンクを追加</em:description>
+    <em:creator>Junya Ishihara(http://champierre.com)</em:creator>
+    <em:contributor>Greasemonkey Compiler by Anthony Lieuallen;</em:contributor>
+    <em:contributor>http://arantius.com/</em:contributor>
+    <em:homepageURL>http://champierre.com</em:homepageURL>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>2.0</em:minVersion>
+        <em:maxVersion>3.6.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

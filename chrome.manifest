@@ -1,0 +1,2 @@
+content	makesthis	content/
+overlay	chrome://browser/content/browser.xul	chrome://makesthis/content/script-compiler-overlay.xul
